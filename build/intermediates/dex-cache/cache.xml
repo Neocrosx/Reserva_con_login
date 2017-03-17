@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3a612168b45c2e6e65bf719ce38edfd5fb9707b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cde7eabde281dafab914adbbbd88b41e8f1020b">
+        <dex dex="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f519b26c616639e7821f1bf3bdf2c49acdcaab96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leon\.android\build-cache\4d8ccf3f9a585085ebc67534cd061aecde047c61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cdddfa36efe82dd36ffa4e5a5eb4b21c49aba8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_cd87ca717c12d56a6aee9fc8bc97ccd22cd6cb3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leon\.android\build-cache\4d8ccf3f9a585085ebc67534cd061aecde047c61\output\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Leon\Documents\Android\Reserva2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_87c3b79c5dee47cbf88362e7beccb789c04bbe5a\classes.dex" />
+    </item>
+
+</items>
